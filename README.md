@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Al-Baraa Ali</h1>
+<h1 align="left">Hi, I'm Al-Baraa Ali</h1>
 <h3 align="left">👨🏽‍🎓 A Senior Computer Science student at the University of Gezira in Sudan</h3>
 
 - I’m currently learning **Deep Learning, Computer Vision, and Object Detection.**
@@ -7,7 +7,7 @@
 
 - Fun fact **'YOLO'**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
