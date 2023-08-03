@@ -7,8 +7,8 @@
 
 - Fun fact **'YOLO'**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b14cs&show_icons=true&theme=dark&locale=en" alt="b14cs" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=b14cs&show_icons=true&theme=dark&locale=en" alt="b14cs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
