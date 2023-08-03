@@ -7,11 +7,11 @@
 
 - Fun fact **'YOLO'**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b14cs&show_icons=true&theme=dark&locale=en" alt="b14cs" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/b14_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b14_cs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/b14-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b14-cs" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b14cs&show_icons=true&theme=dark&locale=en&layout=compact" alt="b14cs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b14cs&show_icons=true&theme=dark&locale=en" alt="b14cs" /></p>
