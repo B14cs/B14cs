@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Al-Baraa Ali</h1>
 <h3 align="center">👨🏽‍🎓 A Senior Computer Science student at the University of Gezira in Sudan</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, and Object Detection.**
+- I’m currently learning **Deep Learning, Computer Vision, and Object Detection.**
 
-- 🤓 Always learning **interesting things.**
+- Always learning **interesting things.**
 
-- ⚡ Fun fact **'YOLO'**
+- Fun fact **'YOLO'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
