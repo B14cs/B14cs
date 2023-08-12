@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Al-Baraa Ali</h1>
-<h3 align="left">👨🏽‍🎓 A Senior Computer Science student at the University of Gezira in Sudan</h3>
+<h3 align="left">A Senior Computer Science student at the University of Gezira in Sudan 👨🏽‍🎓</h3>
 
 - I’m currently learning **Deep Learning, Computer Vision, and Object Detection.**
 
