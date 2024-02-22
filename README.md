@@ -7,33 +7,23 @@
 
 ---
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
+<a align="center" href="https://www.linkedin.com/in/b14-cs/">
+    <img align="right" height="175" width="400" alt="B14cs" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analyst;Business+Intelligence+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+</a>
+
+<p>
+
 - I’m an Undergraduate at **University of Gezira 👨🏽‍🎓.**
 
 - Learning about **Deep Learning, Computer Vision, and Object Detection.**
 
-- Main language: **Python**
+- Main language: **Python.**
 
 - Always learning **interesting things.**
 
 - Open for An Intern or a new job opportunity. Here is 
     <a href="https://drive.google.com/file/d/1qRurPoeckXCZvaNF1_EMnNM2Po0GNlW_/view?usp=sharing">MY RESUME.</a>
-
-</td>
-<td width="50%" align="center">
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/b14-cs/">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analyst;Business+Intelligence+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -263,7 +253,7 @@
 ---
 
 <h3>
-Since you don't want to leave my profile just yet! Here are some ways you can reach me with:
+Since you don't want to leave my profile just yet! Here are some ways you can reach me:
 </h3>
 
 ---
