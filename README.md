@@ -133,7 +133,7 @@
     </a>
  </p>
 
-<h3>👉Graphic Designing:</h3>
+<h3>Graphic Designing:</h3>
 
 <p align="left">
   &emsp;
