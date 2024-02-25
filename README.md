@@ -53,7 +53,7 @@
 
 ---
 
-<h3>👉 Programming languages</h3>
+<h3>Programming languages:</h3>
 
 <p align="left"> 
   &emsp;
@@ -74,7 +74,7 @@
   </a>
 </p>
 
-<h3>👉 Frontend Development</h3>
+<h3>Frontend Development:</h3>
 
 <p align="left"> 
   &emsp; 
@@ -85,9 +85,13 @@
   <a href="https://www.w3schools.com/css/">
     <img height="25" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.w3schools.com/js/">
+    <img height="25" alt="JS" src="https://img.shields.io/badge/JS-F7DF1E.svg?logo=javascript&logoColor=white">
+  </a>
 </p>
 
-<h3>👉 Databases</h3>
+<h3>Databases:</h3>
 
 <p align="left">
   &emsp;
@@ -108,7 +112,7 @@
     </a>
  </p>
 
-<h3>👉 Cloud Hosting</h3>
+<h3>Cloud Hosting:</h3>
 
 <p align="left">
   &emsp;
@@ -129,7 +133,7 @@
     </a>
  </p>
 
-<h3>👉Graphic Designing</h3>
+<h3>👉Graphic Designing:</h3>
 
 <p align="left">
   &emsp;
@@ -150,7 +154,7 @@
   </a>
  </p>
 
-<h3>👉 Software & Tools</h3>
+<h3>Software & Tools:</h3>
 <p align="left">
   &emsp;
     <a href="https://opencv.org/">
@@ -174,7 +178,7 @@
     </a>
 </p>
 
-<h3>👉 Python Analysis Libraries</h3>
+<h3>Python Analysis Libraries:</h3>
 <p align="left">
   &emsp;
     <a href="https://numpy.org/">
@@ -204,13 +208,14 @@
     <a href="https://www.tensorflow.org/">
         <img height="25" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
     </a>
+    <br>
   &emsp;
     <a href="https://keras.io/">
         <img height="25" alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white">
     </a>
 </p>
 
-<h3>👉 IDEs</h3>
+<h3>IDEs:</h3>
 <p align="left">
   &emsp;
     <a href="https://code.visualstudio.com/">
@@ -234,7 +239,7 @@
     </a>
 </p>
 
-<h3>👉 Opreating Systems</h3>
+<h3>Opreating Systems:</h3>
 <p align="left">
   &emsp;
     <a href="https://www.microsoft.com/en-us/windows?r=1">
