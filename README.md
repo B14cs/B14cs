@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-    <h3>👨🏽‍🎓 A Senior Computer Science student at the University of Gezira</h3>
+    <h3>👨🏽‍🎓 A Graduate in Computer Science at the University of Gezira.</h3>
 </div>
