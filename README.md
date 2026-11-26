@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-    <h3>A MSc Student in Computer Science at the King Saud University.</h3>
+    <h3>A MSc Student in Computer Science at King Saud University.</h3>
 </div>
